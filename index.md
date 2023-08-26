@@ -93,7 +93,8 @@ code . = opening the current directoy
 <br>
 mkdir = make directory
 <br>
-git init shows does somthin,, git shows something. github shares with internet
+git init shows does somthin,, git shows something. github shares with interneT
+<br>
 
 
 
