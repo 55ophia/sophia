@@ -76,6 +76,21 @@ check out my github page: <a href  ="https://github.com/55ophia"> here </a> !!!!
     <td> made the "what i did with my blog" thing on this day cuz mortensen told us too. i aint remembering this stuf all this sob, im trying to make the table have rounded corners but its not workin helpin out my friend rnn. i wanna make a table of contents</td>
     </tr>
 </table>
+
+<table>
+    <tr>
+        <th> 8/25 </th>
+        <th> 8/28 </th>
+    </tr>
+    <td> today i did my live review and TURNSO UT I OT 90% CUZ I DIDNT PUSh. so iltereally went home and asked my comp sci dad and even he didn know. so i searched it up turns out i needed to make it public thru settings like wthhhh anyways </td>
+    <td> so literally im tryna find out what the lab notebook check whtever but i have no clue what sgoin on like what is a ipynb whtever the frick thing an he isn't even clarifyin like what am i supposed to do?? like how do i code idek like where do i test the coding anyway</td>
+
+
+</table>
+
+
+
+
 <hr style ="border 6px dotted cadetblue">
 <h3> reminders </h3>
 put down edited dates in todays blog day
